@@ -1,3 +1,3 @@
 # Hej
 
-Jeg har nu lavet havldelen af min filtrering. Hurra!
+Jeg har nu lavet hele filtrering. Hurra!
